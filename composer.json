@@ -1,5 +1,5 @@
 {
-    "name": "sanchezalejandro86/SURSecurityBundle",
+    "name": "sanchezalejandro86/sur-ecurity-bundle",
     "type": "symfony-bundle",
     "description": "Bundle de seguridad para integracion con el SUR",
     "keywords": ["SUR", "bundle"],
